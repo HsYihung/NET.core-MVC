@@ -1,0 +1,662 @@
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.exe
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.deps.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.dev.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ref\CoreMVCCategoryProduct.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Humanizer.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csprojAssemblyReference.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfoInputs.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfo.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CoreCompileInputs.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\staticwebassets\CoreMVCCategoryProduct.StaticWebAssets.Manifest.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\staticwebassets\CoreMVCCategoryProduct.StaticWebAssets.xml
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\scopedcss\bundle\CoreMVCCategoryProduct.styles.css
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.input.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.output.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorCoreGenerate.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CopyComplete
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\ref\CoreMVCCategoryProduct.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.genruntimeconfig.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.exe
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.deps.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.dev.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ref\CoreMVCCategoryProduct.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csprojAssemblyReference.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfoInputs.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfo.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\staticwebassets\CoreMVCCategoryProduct.StaticWebAssets.Manifest.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\staticwebassets\CoreMVCCategoryProduct.StaticWebAssets.xml
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\scopedcss\bundle\CoreMVCCategoryProduct.styles.css
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.input.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.output.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorCoreGenerate.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CopyComplete
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\ref\CoreMVCCategoryProduct.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.genruntimeconfig.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\libman.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\en-US\CoreMVCCategoryProduct.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Resources.Resource1.en-US.resources
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.GenerateResource.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\en-US\CoreMVCCategoryProduct.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-TW\CoreMVCCategoryProduct.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Resources.Resource1.zh-TW.resources
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\zh-TW\CoreMVCCategoryProduct.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.Development.json
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.json
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\libman.json
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.exe
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.deps.json
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.json
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.dev.json
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ref\CoreMVCCategoryProduct.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\en-US\CoreMVCCategoryProduct.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-TW\CoreMVCCategoryProduct.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Humanizer.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csprojAssemblyReference.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Resources.Resource1.en-US.resources
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Resources.Resource1.zh-TW.resources
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.GenerateResource.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfoInputs.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfo.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CoreCompileInputs.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\en-US\CoreMVCCategoryProduct.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\zh-TW\CoreMVCCategoryProduct.resources.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\staticwebassets\CoreMVCCategoryProduct.StaticWebAssets.Manifest.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\staticwebassets\CoreMVCCategoryProduct.StaticWebAssets.xml
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\scopedcss\bundle\CoreMVCCategoryProduct.styles.css
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.input.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.output.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorCoreGenerate.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CopyComplete
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\ref\CoreMVCCategoryProduct.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.pdb
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.genruntimeconfig.cache
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_LanguagePartial.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_LanguagePartial.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\_ShowPhotoPartial.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\_ShowPhotoPartial.cshtml.g.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.MvcApplicationPartsAssemblyInfo.cs
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\X.PagedList.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\temp\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\X.PagedList.Web.Common.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\appsettings.json
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\libman.json
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.exe
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.deps.json
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.json
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.runtimeconfig.dev.json
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\en-US\CoreMVCCategoryProduct.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\X.PagedList.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\X.PagedList.Web.Common.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.AssemblyReference.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Resources.Resource1.resources
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Resources.Resource1.en-US.resources
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.GenerateResource.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfoInputs.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.AssemblyInfo.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorAssemblyInfo.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\en-US\CoreMVCCategoryProduct.resources.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\scopedcss\bundle\CoreMVCCategoryProduct.styles.css
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\staticwebassets\CoreMVCCategoryProduct.StaticWebAssets.Manifest.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.input.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.TagHelpers.output.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorCoreGenerate.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Categories\_ShowPhotoPartial.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_LanguagePartial.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.Views.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.csproj.CopyComplete
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\refint\CoreMVCCategoryProduct.dll
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.pdb
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\CoreMVCCategoryProduct.genruntimeconfig.cache
+D:\ASP.NET Core MVC\Demo\CoreMVCCategoryProduct\CoreMVCCategoryProduct\obj\Debug\net5.0\ref\CoreMVCCategoryProduct.dll

@@ -1,0 +1,13 @@
+﻿<form asp-controller="Home" asp-action="Contact" method="post">
+    <fieldset>
+        <legend>連絡人資訊</legend>
+        <label>姓名:</label>
+        <input id="name" name="name" type="text" class = "form-control" required />
+        <br />
+        <label>電子郵件:</label>
+        <input id="email" name="email" type="email" class = "form-control" required placeholder = "例如:User@test.com"/>
+        <br />
+        <button type="submit" value="submit"class="btn btn-success" title="送出連絡資訊">
+		<i class="fa fa-save"></i> 送出</button>
+    </fieldset>
+</form>

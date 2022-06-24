@@ -1,0 +1,648 @@
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.StaticWebAssets.xml
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.exe
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.deps.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.dev.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ref\CoreMVCjTable.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csprojAssemblyReference.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfoInputs.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfo.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.Manifest.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.xml
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\scopedcss\bundle\CoreMVCjTable.styles.css
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.input.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.output.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorCoreGenerate.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cs
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.Views.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CopyComplete
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\ref\CoreMVCjTable.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.pdb
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.genruntimeconfig.cache
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\libman.json
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.Development.json
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.json
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\libman.json
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.StaticWebAssets.xml
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.exe
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.deps.json
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.json
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.dev.json
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ref\CoreMVCjTable.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Humanizer.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csprojAssemblyReference.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfoInputs.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfo.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CoreCompileInputs.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.Manifest.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.xml
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\scopedcss\bundle\CoreMVCjTable.styles.css
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.input.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.output.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorCoreGenerate.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cache
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cs
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.Views.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CopyComplete
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\ref\CoreMVCjTable.dll
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.pdb
+C:\temp\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.genruntimeconfig.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.Development.json
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.json
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\libman.json
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.StaticWebAssets.xml
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.exe
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.deps.json
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.json
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.dev.json
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ref\CoreMVCjTable.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Humanizer.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csprojAssemblyReference.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfoInputs.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfo.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CoreCompileInputs.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.Manifest.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.xml
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\scopedcss\bundle\CoreMVCjTable.styles.css
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.input.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.output.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorCoreGenerate.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cache
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cs
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.Views.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CopyComplete
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\ref\CoreMVCjTable.dll
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.pdb
+F:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.genruntimeconfig.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\appsettings.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.StaticWebAssets.xml
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\libman.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.exe
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.deps.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.runtimeconfig.dev.json
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ref\CoreMVCjTable.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\CoreMVCjTable.Views.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Humanizer.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.AssemblyReference.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfoInputs.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.AssemblyInfo.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CoreCompileInputs.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorAssemblyInfo.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.Manifest.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\staticwebassets\CoreMVCjTable.StaticWebAssets.xml
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\scopedcss\bundle\CoreMVCjTable.styles.css
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.input.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.TagHelpers.output.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorCoreGenerate.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cache
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.RazorTargetAssemblyInfo.cs
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.Views.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.csproj.CopyComplete
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\ref\CoreMVCjTable.dll
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.pdb
+E:\ASP.NET\ASP.NET Core\Demo\CoreMVCjTable\CoreMVCjTable\obj\Debug\net5.0\CoreMVCjTable.genruntimeconfig.cache

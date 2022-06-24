@@ -1,0 +1,107 @@
+﻿@*@model IEnumerable<CoreMVCCategoryProduct.Models.Product>*@
+@model X.PagedList.IPagedList<CoreMVCCategoryProduct.Models.Product>
+@using X.PagedList.Mvc.Core;
+@using CoreMVCCategoryProduct.Resources;
+
+@section Styles
+{
+    <link href="~/css/PagedList.css" rel="stylesheet" />
+}
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>@CoreMVCCategoryProduct.Resources.Resource1.ProductInfo</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form method="post" asp-action="Index" asp-controller="Products">
+    <p>
+        <input id="searchString" name="searchString" type="text" value="@ViewBag.CurrentFilter" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </p>
+</form>
+<table class="table table-striped table-hover table-bordered table-condensed">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-controller="Products" asp-route-sortOrder="@ViewBag.ProductNameSortParm" asp-route-currentFilter="@ViewBag.CurrentFilter">@Resource1.ProductName</a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().SupplierId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().QuantityPerUnit)
+            </th>
+            <th>
+                <a asp-action="Index" asp-controller="Products" asp-route-sortOrder="@ViewBag.UnitPriceSortParm" asp-route-currentFilter="@ViewBag.CurrentFilter">UnitPrice</a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().UnitsInStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().UnitsOnOrder)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().ReorderLevel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Discontinued)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SupplierId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QuantityPerUnit)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitsInStock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UnitsOnOrder)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReorderLevel)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Discontinued)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ProductId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+Page @(Model.PageCount < Model.PageNumber ?
+	0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+            new
+            {
+                page,
+                sortOrder = ViewBag.CurrentSort,
+                currentFilter = ViewBag.CurrentFilter
+            }))
+

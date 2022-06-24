@@ -1,0 +1,18 @@
+﻿@model IEnumerable<CoreMVCTelerikGrid.ViewModels.ProductViewModel>
+@using Kendo.Mvc.UI
+
+@(Html.Kendo().Grid(Model).Name("Grid").Columns(columns => {
+    columns.Bound(p => p.ProductId);
+    columns.Bound(p => p.ProductName);
+    columns.Bound(p => p.CategoryId);
+    columns.Bound(p => p.UnitPrice).Width(130);
+    columns.Bound(p => p.Discontinued).Width(130);
+  })
+  .Pageable(pager => pager.Messages(messages => 	messages.Display("目前顯示記錄{0} ~ {1}. 總記錄數: {2}")))
+  .Sortable()
+  .DataSource(dataSource => dataSource
+        .Ajax()
+        .PageSize(10)
+        .ServerOperation(false)
+    )
+)

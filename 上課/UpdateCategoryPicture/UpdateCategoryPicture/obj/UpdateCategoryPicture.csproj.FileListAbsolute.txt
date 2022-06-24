@@ -1,0 +1,10 @@
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Debug\UpdateCategoryPicture.exe
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Debug\UpdateCategoryPicture.pdb
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Release\ResolveAssemblyReference.cache
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Release\UpdateCategoryPicture.Form1.resources
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Release\UpdateCategoryPicture.Properties.Resources.resources
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Release\UpdateCategoryPicture.csproj.GenerateResource.Cache
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\bin\Release\UpdateCategoryPicture.exe
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\bin\Release\UpdateCategoryPicture.pdb
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Release\UpdateCategoryPicture.exe
+C:\test\UpdateCategoryPicture(CS)\UpdateCategoryPicture\obj\Release\UpdateCategoryPicture.pdb

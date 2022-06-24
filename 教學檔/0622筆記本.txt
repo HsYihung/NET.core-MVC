@@ -1,0 +1,64 @@
+---HttpOnly->防範盜取Cookie
+document.cookie(盜取Cookie)
+
+---Secure-->只能HTTPS連線傳送
+
+ViewBag==>動態語言
+ViewData=>Key-Value Pair集合(Dictionary集合)
+TempData=>Key-Value Pair集合(Dictionary集合)
+Cookie, Session, Cache=>Key-Value Pair集合
+==========網頁--無狀態====
+User---Request--->Server
+User<-Response--Server
+===========
+白名單驗証法(列出接收的清單)
+黑名單驗証法(列出拒收的清單)
+===接收Post==
+public RedirectToActionResult Contact() { Requset }
+public RedirectToActionResult Contact(string Name, string Email) {  }
+public RedirectToActionResult Contact(IFormCollection collection) {  }
+public RedirectToActionResult Contact(ContactModel cm) {  }
+
+===防偽標籤(員工配戴的識別証)===
+view ----Post---> Controller
+
+============
+fallback==>沒魚蝦也好
+===
+<environment>
+<partial>
+<select>
+	<option>xx</option>
+	<option>yy</option>
+	<option>zz</option>
+</select>
+public class LoginViewModel
+{
+   public string Email {get;set;}
+   public string Password {get; set;}
+}
+========
+1)體積太大
+2)內容取得(In Memory Always win: 常用, 不常修改, 取得成本高)
+3)CPU速度
+==========
+<form action="" method="">
+    @Html.AntiForgeryToken()
+</form>
+
+<form asp-action="Create" asp-controller="Customers">
+</form>
+=======
+IActionResult 		=> 傳回HTML
+FileResult      		=> 傳回檔案
+JsonResult    		=> 傳回Json文件
+RedirectionToActionResult 	=> 傳回Redirect結果
+...
+=========Action函式====	
+public IActionResult Details(string CustomerID)		//同步版
+{
+}
+public async Task<IActionResult> Details(string CustomerID) 	//非同步版
+{
+   await
+}

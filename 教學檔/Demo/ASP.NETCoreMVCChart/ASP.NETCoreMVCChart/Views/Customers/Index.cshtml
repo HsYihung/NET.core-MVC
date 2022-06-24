@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Chart.js";
+}
+
+<h1>Chart.js</h1>
+<div style="width:640px;height:480px;">
+    <canvas id="Chart" width="400" height="300"></canvas>
+</div>
+
+@section scripts
+{
+    <script src="~/lib/chart.js/dist/chart.js"></script>
+    <script>
+        var ctxline = document.getElementById("Chart").getContext('2d');
+        $.ajax({
+            url: "@Url.Action("GetCustomersCount", "Customers")",
+            type: "get",
+        }).done(function (data) {
+            var labels = [];
+            var dataresults = [];
+            $.each(data, function (index, item) {
+                labels.push(item.country);
+                dataresults.push(item.count);
+            });
+            var myLineChart = new Chart(ctxline, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: '客戶人數',
+                        data: dataresults,
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true
+                            }
+                        }]
+                    }
+                }
+            });
+        }).fail(function (err) {
+            alert(err.statusText);
+        });
+    </script>
+}

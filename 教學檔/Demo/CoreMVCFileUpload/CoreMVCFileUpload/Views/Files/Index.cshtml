@@ -1,0 +1,45 @@
+﻿@model IEnumerable<CoreMVCFileUpload.Controllers.DownloadFile>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div>
+    <a asp-action="Upload" asp-controller="Files" class="btn btn-primary">檔案上傳</a>
+    <a asp-action="DownloadAll" asp-controller="Files" class="btn btn-primary">全部下載</a>
+</div>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FileName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FileSize)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreationTime)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                <a asp-controller="Files" asp-action="Download" asp-route-Filename="@item.FileName">@item.FileName</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FileSize)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreationTime)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

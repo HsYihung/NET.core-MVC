@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "chart.js@3.0.2",
+      "destination": "wwwroot/lib/chart.js/"
+    }
+  ]
+}

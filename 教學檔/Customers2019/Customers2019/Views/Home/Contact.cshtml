@@ -1,0 +1,31 @@
+﻿@model Customers2019.Models.ContactModel
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>Contact</h1>
+
+<form asp-action="Contact" asp-controller="Home">
+    <div class="row">
+        <div class="col-lg-5">
+            <div class="form-group">
+                <label>Name:</label>
+                <input asp-for="Name" type="text" class="form-control"  />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Email:</label>
+                <input asp-for="Email" type="text" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button class="btn btn-warning" type="submit"><i class="fa-brands fa-accusoft"></i> 提交</button>
+            </div>
+        </div>
+    </div>
+    
+</form>
+
+@*@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

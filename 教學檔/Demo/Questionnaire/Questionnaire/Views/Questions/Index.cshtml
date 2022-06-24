@@ -1,0 +1,37 @@
+﻿@using Questionnaire.Models
+@model IEnumerable<Question>
+
+<form asp-action="Create">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>題目</th>
+                <th>答案1</th>
+                <th>答案2</th>
+                <th>答案3</th>
+                <th>答案4</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                    @*@item.Answers.ElementAt(0).Answer1*@
+                </td>
+                @for (int i =0;i<item.Answers.Count;i++)
+                {
+                    <td>
+                        <input name="@item.Description" type="radio" value="@Html.DisplayFor(modelItem => item.Answers.ElementAt(i).Answer1)" />
+                        <label for="huey">@Html.DisplayFor(modelItem => item.Answers.ElementAt(i).Answer1)</label>
+                    </td>
+                }
+            </tr>
+            }
+        </tbody>
+    </table>
+    <div class="form-group">
+        <input type="submit" value="提交" class="btn btn-primary" />
+    </div>
+</form>

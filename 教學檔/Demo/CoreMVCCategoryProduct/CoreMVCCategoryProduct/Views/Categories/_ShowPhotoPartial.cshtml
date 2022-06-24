@@ -1,0 +1,13 @@
+﻿@model CoreMVCCategoryProduct.Models.Category
+
+@if (Model.Picture != null)
+{
+    <img src="@Url.Action("ShowPhoto", "Categories",
+	 new {id=Model.CategoryId})"
+         style="width:320px;height:240px"
+         title="@Html.DisplayFor(model => model.CategoryName)" />
+}
+else
+{
+    <img src="@Url.Content("~/images/NoImage.png")" style="width:320px;height:240px" />
+}

@@ -1,0 +1,12 @@
+﻿@model pcg2019.Models.Categories
+
+@if (Model.Picture != null)
+{
+    <img class="w-75 overflow-hidden" src="@Url.Action("ShowPhoto","Categories",new {id=Model.CategoryId})" title=" @Html.DisplayFor(model => model.CategoryName)" />
+}
+else
+{
+    <img class="w-75 overflow-hidden" src="@Url.Content("~/imges/NoImge.jpg")" title="No Images" />
+}
+
+

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UpdateCategoryPicture.Form1.resources
+obj\Debug\UpdateCategoryPicture.Properties.Resources.resources
+obj\Debug\UpdateCategoryPicture.csproj.GenerateResource.Cache
+bin\Debug\UpdateCategoryPicture.exe
+bin\Debug\UpdateCategoryPicture.pdb
+obj\Debug\UpdateCategoryPicture.exe
+obj\Debug\UpdateCategoryPicture.pdb
