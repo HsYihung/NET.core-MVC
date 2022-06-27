@@ -9227,33 +9227,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Craig\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Student\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET\\ASP.NET Core MVC\\Demo\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\NET.core-MVC\\教學檔\\Demo\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders.csproj",
       "projectName": "CoreMVCCustomerOrders",
-      "projectPath": "D:\\ASP.NET\\ASP.NET Core MVC\\Demo\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders.csproj",
-      "packagesPath": "C:\\Users\\Craig\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET\\ASP.NET Core MVC\\Demo\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders\\obj\\",
+      "projectPath": "C:\\Users\\Student\\Desktop\\NET.core-MVC\\教學檔\\Demo\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\NET.core-MVC\\教學檔\\Demo\\CoreMVCCustomerOrders\\CoreMVCCustomerOrders\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Craig\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\NuGetPackages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -9320,7 +9312,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,22 @@
+﻿@model CustomerOrder2019.Models.Customers
+
+
+    <h2>客戶訂單</h2>
+    <div class="form-group row">
+        <label class="col-2 custom-control-label"> 公司 :  </label>
+        <select asp-for="CustomerId" asp-items="@ViewBag.CustomerID" class="form-control">
+            <option>---請選擇---</option>
+        </select>
+    </div>
+    
+    <div id="Orders"></div>
+
+@section scripts
+{
+    <script>
+        let webroot = "@Url.Action("Orders","Customers")/"
+        $("#CustomerId").change(function () {
+            UpdateOrders();
+        })
+    </script>
+}

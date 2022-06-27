@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\CustomerOrder2019</_PublishTargetUrl>
+    <History>True|2022-06-27T07:26:58.3019623Z;True|2022-06-27T14:57:48.1750636+08:00;True|2022-06-27T14:36:55.3777030+08:00;False|2022-06-27T14:35:42.5197897+08:00;False|2022-06-27T14:35:09.6414723+08:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-CustomerOrder2019-2BAA4B7C-3C65-4FD2-8702-FCF8CD954711%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="NorthWind">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=aspnet-CustomerOrder2019-2BAA4B7C-3C65-4FD2-8702-FCF8CD954711%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
